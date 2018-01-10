@@ -1,4 +1,14 @@
+/**
+ * @author Saliha Altındiş
+ * @author Zehra Yılmaz
+ */
 
+/**
+ *
+ * This is a nested object class which is for keeping fields
+ * as a custom built object of a weather record that is came from GSON parsing.
+ *
+ */
 public class City {
     Coordinate coord;
     Weather[] weather;
